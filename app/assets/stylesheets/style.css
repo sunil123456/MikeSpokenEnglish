@@ -1,0 +1,109 @@
+.grey-darken
+{
+	background-color : #F2F2F2;
+}
+
+ul.menu-nav
+{
+	margin:0;
+	padding:0;
+}
+
+ul.menu-nav li
+{
+	list-style: none;
+	float: left;
+	
+}
+
+ul.menu-nav li
+{
+	list-style: none;
+	float: left;
+	
+}
+
+ul.menu-nav li a
+{
+	color: #9b9b9b;
+	font-size: 12px;
+}
+
+ul.menu-nav li a:visited, ul.menu-nav li a:active
+{
+	text-decoration: none;
+}
+
+ul.menu-nav li a.active
+{
+text-decoration: none;
+color: #FF573D;
+border-bottom: 3px solid #FF573D;
+}
+
+ul.menu-nav li a:hover
+{
+text-decoration: none;
+border-bottom: 3px solid #F98B31;
+}
+
+.padding10
+{
+	padding: 10px;
+}
+
+.padding20
+{
+	padding: 20px;
+}
+
+.mike-spo
+{
+	color: #FF573D;
+}
+
+.logo
+{
+	background-color: rgb(242, 242, 242);
+	 font-family: 'Kaushan Script', cursive;
+	 font-size: 19px;
+}
+
+.padding5
+{
+	padding: 5px;
+}
+
+.fg-color-orange
+{
+	color: #FF573D;
+}
+
+.understood-text {
+    border-bottom: 2px solid #000;
+    font-weight: bold;
+    background-color:yellow; 
+}
+.fg-color-grey
+{
+	color: #9b9b9b;
+}
+
+
+@font-face {
+  font-family: 'Kaushan Script';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Kaushan Script'), local('KaushanScript-Regular'), url(/assets/kaushan_font.woff) format('woff');
+}
+
+
+.fg-color-white
+{
+	color: #fff;
+}
+
+.fg-color-blue
+{
+	color: #3f7a92;
+}
